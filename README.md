@@ -1,6 +1,6 @@
 # Datadog Add-on for Splunk
 
-> The **Datadog Add-on for Splunk** uses the _Datadog HTTP API_ to fetch data and ingest it into Splunk.
+> The **Datadog Add-on for Splunk** uses the _Datadog API_ to fetch data and ingest it into Splunk.
 
 [![HitCount](http://hits.dwyl.com/splunk/ta-splunk-add-on-for-datadog-api.svg)](https://github.com/splunk/ta-splunk-add-on-for-datadog-api/releases)
 [![GitHub issues](https://img.shields.io/github/issues/splunk/ta-splunk-add-on-for-datadog-api?label=issues&color=informational)](https://github.com/splunk/ta-splunk-add-on-for-datadog-api/issues)
